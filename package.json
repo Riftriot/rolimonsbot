@@ -1,0 +1,16 @@
+{
+  "name": "rolimons_bot",
+  "version": "1.0.0",
+  "description": "A discord self-bot and trade ad sender for Rolimon's trade ads.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Riftriot / MercuryWorkshop",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "legend.js": "^11.9.91"
+  }
+}
